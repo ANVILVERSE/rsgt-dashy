@@ -30,4 +30,3 @@ services:
       start_period: 40s
 volumes:
   dashy
-    external: false
